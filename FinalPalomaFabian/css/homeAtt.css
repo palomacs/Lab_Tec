@@ -1,0 +1,42 @@
+li.searchResults {
+    float: inherit;
+    background: white;
+    font-family: inherit;
+    padding: 5px;
+    font-size: larger;
+}
+li.searchResults:hover{
+	cursor: pointer;
+}
+
+div#suggestion-box {
+    margin: 10px;
+}
+
+input[type="number"] {
+    font-size: inherit;
+    margin: 0;
+    box-shadow: 0px 0px 0px 0px;
+    padding: 4px;
+    text-align: center;
+}
+
+input#submitCartButton:hover {
+    cursor: pointer;
+}
+
+input.dateP {
+    padding: 5px;
+    margin: 5px;
+    width: 75%;
+    font-size: 100%;
+}
+
+input.bt:hover{
+    cursor: pointer;
+    background: gray;
+}
+
+div#requests {
+    margin: inherit;
+}
