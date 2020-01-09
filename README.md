@@ -1,2 +1,2 @@
-# Lab_Tec
-Final Project 
+# TecLab
+Final Project of Web Developing Class
